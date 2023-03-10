@@ -11,7 +11,7 @@ Before running the project, please make sure you have the following:
 ### - Can I use my own IDE to develop the project during the course ?
 Yes, feel free to use your own IDE for the course.
 
-### - How do I check my Node version ?
+### - How do I check my Node version?
 To check your current Node.js version, open your terminal and type the command below to see your current Node.js version.
 ```
 node -v
