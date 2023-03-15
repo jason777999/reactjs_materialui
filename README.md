@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# System Requirements for Course.
+# System Requirements for Course
 Before running the project, please make sure you have the following:
 
 - Node.js LTS version which can be found [here](https://nodejs.org/en/download/). The course is upto date using this version at all times.
